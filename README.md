@@ -26,9 +26,6 @@ Người dùng có thể sử dụng webcam để quét lá cây, hệ thống s
 
 
 ⚙️ Hướng dẫn cài đặt
-
-1. **Clone project về máy**
-```bash
 git clone https://github.com/your-username/leaf-detection-yolov8.git
 cd leaf-detection-yolov8
 Tạo môi trường ảo (tuỳ chọn)
@@ -53,6 +50,12 @@ https://docs.ultralytics.com/
 https://flask.palletsprojects.com/
 https://roboflow.com/
 https://docs.opencv.org/
+
+👨‍💻 Thông tin sinh viên
+Họ và tên: Thiều Khánh Phú
+MSSV: 1571020200
+Lớp: CNTT 15-03
+Giảng viên hướng dẫn: ThS. Lê Trung Hiếu
 
 👨‍💻 Thông tin sinh viên
 Họ và tên: Thiều Khánh Phú
