@@ -45,8 +45,8 @@ Mở trình duyệt và truy cập
 
 http://localhost:5000/
 📸 Kết quả
-![1](https://github.com/user-attachments/assets/295b0afb-6705-44d0-bb37-ba31a0b631a7)
-![2](https://github.com/user-attachments/assets/e8825436-049e-44be-9416-0db1baa7a30d)
+![nhandienlachuoi](https://github.com/user-attachments/assets/c0736e59-f551-4dbc-bf0c-6824e8db46c1)
+![nhandienlaphuong](https://github.com/user-attachments/assets/6bd05a96-514f-435d-9206-7b8cb154c220)
 
 📚 Tài liệu tham khảo
 https://docs.ultralytics.com/
